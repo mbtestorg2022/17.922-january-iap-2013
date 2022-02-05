@@ -12,26 +12,308 @@ During the first half of the third week, we will choose the main theme and desig
 
 The fourth week will be devoted to completing the building and producing of the installation and organizing the projects, designing the web page, and advertising the installation or project.
 
-| SES # | TOPICS |
-| --- | --- |
-| 1 |  {{< br >}}{{< br >}} Introduction {{< br >}}{{< br >}} Requirements {{< br >}}{{< br >}} Choose one of the following topics for discussion:  {{< br >}}Topic 1: MLK Memorial Inscription Changed  {{< br >}}Topic 2: Is MIT a True Meritocracy? {{< br >}}{{< br >}} _See Activity 1 in the [Activities]({{< baseurl >}}/pages/activities) section_ {{< br >}}{{< br >}}  |
-| 2 |  {{< br >}}{{< br >}} Most students watch "Awakenings," Episode 1 in the "[Eyes on the Prize](http://www.pbs.org/wgbh/americanexperience/films/eyesontheprize/)" documentary series. {{< br >}}{{< br >}} Donnie Mossberg. "Eyes on the Prize - 01 - Awakenings, 1954-1956." December 4, 2012. YouTube. Accessed July 8, 2013. [https://www.youtube.com/watch?v=nM9sQxt8BKE](https://www.youtube.com/watch?v=nM9sQxt8BKE) {{< br >}}{{< br >}} A smaller group watches a different episode. |
-| 3 |  {{< br >}}{{< br >}} Multiple Identities Activity {{< br >}}{{< br >}} _See Activity 2 in the [Activities]({{< baseurl >}}/pages/activities) section_ {{< br >}}{{< br >}}  |
-| 4 |  {{< br >}}{{< br >}} Most students watch "No Easy Walk," Episode 4 in the "[Eyes on the Prize](http://www.pbs.org/wgbh/americanexperience/films/eyesontheprize/)" documentary series. {{< br >}}{{< br >}} Donnie Mossberg. "Eyes on the Prize - 04 - No Easy Walk 1961-1963." December 4, 2012. YouTube. Accessed July 8, 2013. [https://www.youtube.com/watch?v=nrZvbsxkGcc](https://www.youtube.com/watch?v=nrZvbsxkGcc) {{< br >}}{{< br >}} A smaller group watches a different episode. {{< br >}}{{< br >}}  |
-| 5 |  {{< br >}}{{< br >}} Students work in groups to prepare a presentation for Session 6. {{< br >}}{{< br >}} _See Activity 3 in the [Activities]({{< baseurl >}}/pages/activities) section_ {{< br >}}{{< br >}}  |
-| 6 | Group Presentations |
-| 7 |  {{< br >}}{{< br >}} Students watch videos about civil and human rights activists around the world. {{< br >}}{{< br >}} _See Activity 4 in the [Activities]({{< baseurl >}}/pages/activities) section_ {{< br >}}{{< br >}}  |
-| 8 |  {{< br >}}{{< br >}} Students watch Episode 1 of "Chicano!", a four-part series about the beginnings of the Chicano Movement. {{< br >}}{{< br >}} cancerleo79. "Chicano! PBS Documentary—Quest for a Homeland." September 19, 2011. YouTube. Accessed May 31, 2013. [http://www.youtube.com/watch?v=RHQ4XS-DrqM](http://www.youtube.com/watch?v=RHQ4XS-DrqM) {{< br >}}{{< br >}}  |
-| 9 |  {{< br >}}{{< br >}} Dimensions of Identity icebreaker and discussion {{< br >}}{{< br >}} _See Activity 5 in the [Activities]({{< baseurl >}}/pages/activities) section_ {{< br >}}{{< br >}}  |
-| 10 |  {{< br >}}{{< br >}} Students are divided into small groups and each group decides whether they want to do Assignment 1 or 2. {{< br >}}{{< br >}} Assignment 1: Go to the "Dropping Knowledge" website  {{< br >}}Assignment 2: What "thing" (positive or negative) does either MIT or Wellesley (or maybe both) need to address? {{< br >}}{{< br >}} _See Activity 6 in the [Activities]({{< baseurl >}}/pages/activities) section_ {{< br >}}{{< br >}}  |
-| 11 |  {{< br >}}{{< br >}} Icebreaker for the installation or project {{< br >}}{{< br >}} _See Activity 7 in the [Activities]({{< baseurl >}}/pages/activities) section_ {{< br >}}{{< br >}}  |
-| 12 |  {{< br >}}{{< br >}} Final vote for top installation and project ideas, and preliminary group formation {{< br >}}{{< br >}} _See Activity 8 in the [Activities]({{< baseurl >}}/pages/activities) section_ {{< br >}}{{< br >}}  |
-| 13 |  {{< br >}}{{< br >}} Firming up of installation or project ideas {{< br >}}{{< br >}} _See Activity 9 in the [Activities]({{< baseurl >}}/pages/activities) section_ {{< br >}}{{< br >}}  |
-| 14 | Installation or project budgets and plans approved |
-| 15 |  {{< br >}}{{< br >}} Supplies picked up and delivered {{< br >}}{{< br >}} Final discussions about installation and projects {{< br >}}{{< br >}}  |
-| 16 |  {{< br >}}{{< br >}} Meetings with group leaders to assess progress {{< br >}}{{< br >}} Students work on installation or projects {{< br >}}{{< br >}}  |
-| 17 | Students work on installation or projects |
-| 18 |  {{< br >}}{{< br >}} Meetings with group leaders for progress {{< br >}}{{< br >}} Update students work on installation or projects {{< br >}}{{< br >}}  |
-| 19 | Final assessment of installation and projects |
-| 20 | Installation in MIT Lobby 10 from February 5–13, 2013 |
-| 21 | Installation is taken down on February 13, 2013
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction
+
+Requirements
+
+Choose one of the following topics for discussion:  
+Topic 1: MLK Memorial Inscription Changed  
+Topic 2: Is MIT a True Meritocracy?
+
+_See Activity 1 in the [Activities]({{< baseurl >}}/pages/activities) section_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Most students watch "Awakenings," Episode 1 in the "[Eyes on the Prize](http://www.pbs.org/wgbh/americanexperience/films/eyesontheprize/)" documentary series.
+
+Donnie Mossberg. "Eyes on the Prize - 01 - Awakenings, 1954-1956." December 4, 2012. YouTube. Accessed July 8, 2013. [https://www.youtube.com/watch?v=nM9sQxt8BKE](https://www.youtube.com/watch?v=nM9sQxt8BKE)
+
+A smaller group watches a different episode.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Multiple Identities Activity
+
+_See Activity 2 in the [Activities]({{< baseurl >}}/pages/activities) section_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Most students watch "No Easy Walk," Episode 4 in the "[Eyes on the Prize](http://www.pbs.org/wgbh/americanexperience/films/eyesontheprize/)" documentary series.
+
+Donnie Mossberg. "Eyes on the Prize - 04 - No Easy Walk 1961-1963." December 4, 2012. YouTube. Accessed July 8, 2013. [https://www.youtube.com/watch?v=nrZvbsxkGcc](https://www.youtube.com/watch?v=nrZvbsxkGcc)
+
+A smaller group watches a different episode.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Students work in groups to prepare a presentation for Session 6.
+
+_See Activity 3 in the [Activities]({{< baseurl >}}/pages/activities) section_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Group Presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Students watch videos about civil and human rights activists around the world.
+
+_See Activity 4 in the [Activities]({{< baseurl >}}/pages/activities) section_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Students watch Episode 1 of "Chicano!", a four-part series about the beginnings of the Chicano Movement.
+
+cancerleo79. "Chicano! PBS Documentary—Quest for a Homeland." September 19, 2011. YouTube. Accessed May 31, 2013. [http://www.youtube.com/watch?v=RHQ4XS-DrqM](http://www.youtube.com/watch?v=RHQ4XS-DrqM)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Dimensions of Identity icebreaker and discussion
+
+_See Activity 5 in the [Activities]({{< baseurl >}}/pages/activities) section_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Students are divided into small groups and each group decides whether they want to do Assignment 1 or 2.
+
+Assignment 1: Go to the "Dropping Knowledge" website  
+Assignment 2: What "thing" (positive or negative) does either MIT or Wellesley (or maybe both) need to address?
+
+_See Activity 6 in the [Activities]({{< baseurl >}}/pages/activities) section_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Icebreaker for the installation or project
+
+_See Activity 7 in the [Activities]({{< baseurl >}}/pages/activities) section_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Final vote for top installation and project ideas, and preliminary group formation
+
+_See Activity 8 in the [Activities]({{< baseurl >}}/pages/activities) section_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Firming up of installation or project ideas
+
+_See Activity 9 in the [Activities]({{< baseurl >}}/pages/activities) section_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Installation or project budgets and plans approved
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Supplies picked up and delivered
+
+Final discussions about installation and projects
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Meetings with group leaders to assess progress
+
+Students work on installation or projects
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Students work on installation or projects
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Meetings with group leaders for progress
+
+Update students work on installation or projects
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Final assessment of installation and projects
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Installation in MIT Lobby 10 from February 5–13, 2013
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Installation is taken down on February 13, 2013
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
