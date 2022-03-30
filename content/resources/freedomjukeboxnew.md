@@ -10,6 +10,7 @@ image_metadata:
   credit: Image courtesy of Tobie Weiner.
   image-alt: A multicolored simulated jukebox with the words "Freedom Jukebox" painted
     on it.
+parent_uid: 08203278-88bc-e2b6-5b15-49f0cb74e304
 resourcetype: Image
 title: Freedom Song Jukebox
 uid: f065f025-e5db-1bd4-8a87-0fa8f9142f99

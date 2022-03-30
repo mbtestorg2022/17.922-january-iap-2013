@@ -10,6 +10,7 @@ image_metadata:
   credit: Image courtesy of Tobie Weiner.
   image-alt: A silhouette of Dr. Martin Luther King,filled in with photos of various
     civil and human rights leaders.
+parent_uid: 08203278-88bc-e2b6-5b15-49f0cb74e304
 resourcetype: Image
 title: Silhouette
 uid: 8a3b43fc-adf0-0946-ed66-05fa354d080b

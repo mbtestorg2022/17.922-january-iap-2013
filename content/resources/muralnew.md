@@ -8,6 +8,7 @@ image_metadata:
   caption: This installation is a graffiti-styled street mural.
   credit: Image courtesy of Tobie Weiner.
   image-alt: A multicolored street art mural with various images and text.
+parent_uid: 08203278-88bc-e2b6-5b15-49f0cb74e304
 resourcetype: Image
 title: Dream
 uid: 9564bcbc-5d7d-231d-dd94-d6dac626a9cb

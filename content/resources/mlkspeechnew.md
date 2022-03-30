@@ -10,6 +10,7 @@ image_metadata:
   credit: Image courtesy of Tobie Weiner.
   image-alt: A painting of the Lincoln Memorial from the point of view of Dr. Martin
     Luther King at the podium.
+parent_uid: 08203278-88bc-e2b6-5b15-49f0cb74e304
 resourcetype: Image
 title: Memorial
 uid: 8dde1a1c-9c65-ce8f-4a34-0d390ce2c240
